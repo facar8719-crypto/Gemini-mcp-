@@ -1,5 +1,5 @@
 {
-  "name": "gemini-mcp",
+  "name": "geminimcp",
   "main": "index.ts",
   "compatibility_date": "2025-01-01"
 }
